@@ -1,0 +1,49 @@
+{
+  "name": "little-espresso",
+  "prettyName": "Little Espresso",
+  "version": "1.0.0",
+  "description": "A lightweight video compression utility",
+  "author": "Marcus Cemes",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "bin": {
+    "little-espresso": "bin/parse-cli.js"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "espresso",
+    "clip",
+    "video",
+    "compression",
+    "ffmpeg",
+    "utility",
+    "easy",
+    "lightweight",
+    "skype",
+    "discord",
+    "email",
+    "h264",
+    "transcode"
+  ],
+  "dependencies": {
+    "center-align": "^1.0.1",
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "command-exists": "^1.2.8",
+    "commander": "^2.19.0",
+    "elegant-spinner": "^1.0.1",
+    "execa": "^1.0.0",
+    "fast-glob": "^2.2.6",
+    "figures": "^2.0.0",
+    "filesize-parser": "^1.5.0",
+    "fs-extra": "^7.0.1",
+    "inquirer": "^6.2.1",
+    "log-update": "^2.3.0",
+    "pretty-bytes": "^5.1.0"
+  }
+}
