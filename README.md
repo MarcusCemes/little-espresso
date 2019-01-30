@@ -106,11 +106,13 @@ Node.js comes with an installer. FFmpeg is more complicated. You will need to do
 Node.js comes with an installer. For FFmpeg, it's **recommended** to install it using [HomeBrew](https://brew.sh/). To install Homebrew, visit [https://brew.sh](https://brew.sh/), it's very easy. Once that's done, run:
 
 ```bash
+$ brew install node
 $ brew install ffmpeg
 ```
-<p align="center"><sub>This will install FFmpeg once Homebrew is installed</sub></p>
 
-#### <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="drawing" height="12"/>  Linux
+<p align="center"><sub>Node.js can also be installed with Homebrew, it avoids having to use <i>sudo</i></sub></p>
+
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="drawing" height="14"/>  Linux
 
 You guys know what you're doing. You're playing with big boy stuff.
 
