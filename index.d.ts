@@ -1,4 +1,4 @@
-// Type definitions for [~Little Espresso~] [~1.0.2~]
+// Type definitions for [~Little Espresso~] [~1.0.4~]
 // Project: [~Little Espresso~]
 // Definitions by: [~Marcus Cemes~] <[~https://mastermovies.co.uk]>
 

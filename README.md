@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-  <img src="https://gist.githubusercontent.com/MarcusCemes/a068081ccdf02e161d4a94c7d6b1a3db/raw/1d1f67d9dffd66b810f9d41f5df36089450e7e65/Little%2520Espresso%2520-%2520Demo%2520%252301.svg?sanitize=true" alt="An example with the command line" width="600">
+  <img src="https://i.ibb.co/cLXGJk3/Little-Espresso-Demo-01.gif" alt="An example with the command line" width="600">
 </p>
 
 ## Features
 
-- 🎬 **High quality** video compression - uses the best settings possible encoder settings
+- 🎬 **High quality** video compression - uses the best encoder settings available
 - 📈 **Two-pass encoding** - for the best possible data distribution
 - 📦 Zero configuration - works right **out of the box**
 - ✂️ **Cross platform** - it could probably even work on your phone
