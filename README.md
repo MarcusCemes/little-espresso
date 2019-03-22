@@ -1,4 +1,6 @@
 # Little Espresso
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMarcusCemes%2Flittle-espresso.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMarcusCemes%2Flittle-espresso?ref=badge_shield)
+
 
 
 <p align="center">
@@ -12,6 +14,9 @@
 <p align="center">
   <img src="https://i.ibb.co/cLXGJk3/Little-Espresso-Demo-01.gif" alt="An example with the command line" width="600">
 </p>
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMarcusCemes%2Flittle-espresso.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMarcusCemes%2Flittle-espresso?ref=badge_large)
 
 ## Features
 
