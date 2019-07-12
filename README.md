@@ -226,3 +226,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## License
 
 This project is licensed under the **Apache 2.0** License - see the [LICENSE.md](LICENSE.md) file for details
+
+## TODO
+
+- Upgrade "tasker" to the [`dynamic-terminal`](https://github.com/MarcusCemes/dynamic-terminal) package

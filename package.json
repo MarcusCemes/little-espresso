@@ -1,7 +1,7 @@
 {
   "name": "little-espresso",
   "prettyName": "Little Espresso",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A lightweight video compression utility",
   "author": "Marcus Cemes",
   "license": "Apache-2.0",
@@ -21,14 +21,15 @@
     "command-exists": "^1.2.8",
     "commander": "^2.20.0",
     "elegant-spinner": "^2.0.0",
-    "execa": "^1.0.0",
-    "fast-glob": "^2.2.7",
+    "execa": "^2.0.3",
+    "fast-glob": "^3.0.4",
     "figures": "^3.0.0",
     "filesize-parser": "^1.5.0",
-    "fs-extra": "^8.0.1",
-    "inquirer": "^6.3.1",
+    "fs-extra": "^8.1.0",
+    "inquirer": "^6.5.0",
     "log-update": "^3.2.0",
-    "pretty-bytes": "^5.2.0"
+    "pretty-bytes": "^5.2.0",
+    "slash": "^3.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -50,5 +51,10 @@
   ],
   "engines": {
     "node": ">=8"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }
